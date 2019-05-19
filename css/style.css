@@ -1087,7 +1087,7 @@ sup {
 }
 
 #left-part .content-inside #subscribe .spam-news {
-  font-size: 1.1rem;
+  font-size: 5.1rem;
   position: relative;
   z-index: 200;
   width: 100%;
@@ -2596,7 +2596,7 @@ canvas#canvasbg {
     margin: 20px 0 0 0;
   }
   #left-part .content-inside #subscribe .spam-news {
-    padding: 35px 0 0 0;
+    padding: 15px 0 0 0;
     text-align: center;
   }
   #left-part #social-nav {
