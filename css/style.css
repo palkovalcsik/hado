@@ -1087,10 +1087,11 @@ sup {
 }
 
 #left-part .content-inside #subscribe .spam-news {
-  font-size: 5.1rem;
+  font-size: 1.1rem;
   position: relative;
   z-index: 200;
   width: 100%;
+  padding-top: 20px;
   padding-left: 20px;
   text-align: left;
   color: rgba(255, 255, 255, 0.5);
